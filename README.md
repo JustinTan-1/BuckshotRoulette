@@ -1,6 +1,8 @@
 # BuckshotRoulette
 Physically playable BuckshotRoulette with Arduino
 
+<img src="buckshot_50.jpg" alt="Image of shotgun" width="300">
+
 # Materials 
 - Arduino Uno
 - 16x2 LCD display
